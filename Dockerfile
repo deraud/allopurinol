@@ -1,5 +1,5 @@
 FROM golang:1.19 AS builder
-LABEL authors="ramadhan.azka"
+LABEL authors="allopurinol"
 
 WORKDIR /app
 
